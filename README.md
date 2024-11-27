@@ -55,6 +55,6 @@ The shared_volume will now be accessible under /my_path in the container.
 
 `docker tag test:latest YOURACCOUNT.dkr.ecr.YOURREGION.amazonaws.com/YOURREPO:YOURTAG`
 
-### Push your image to ECR\
+### Push your image to ECR
 
 `docker push YOURACCOUNT.dkr.ecr.YOURREGION.amazonaws.com/YOURREPO:YOURTAG`
